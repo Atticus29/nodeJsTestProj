@@ -1,0 +1,10 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/Atticus29/nodeJsTestProj.git",
+  "author": "Mark Fisher",
+  "license": "MIT",
+  "private": null
+}
